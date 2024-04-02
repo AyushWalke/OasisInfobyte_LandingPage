@@ -7,7 +7,7 @@
 header {
 	width: 100%;
 	height: 100vh;
-	background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)), url('F:/Internships/Oasis Infobyte/Web Development/Landing Page/bg.jpg');
+	background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)), url('bg.jpg');
 	background-size: cover;
 	font-family: sans-serif;
 }
